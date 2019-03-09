@@ -36,11 +36,7 @@ Show project to students.
 ### March 16th ###
 - **Stand ups**
 
-### March 19th ###
-- **Stand ups**
-- **Coding Kata**
-
-### Saturday - December 15th ###
+### Saturday - December 19th ###
 - **Stand ups**
 - **Coding Kata**
 - **7 PM** - _Presentation Practice #1_: About You & Your Project <br>
