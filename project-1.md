@@ -26,23 +26,26 @@ and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
 Schedule
 --------
-### March 9th ###
+### Saturday - March 9th ###
 Show project to students.
 
-### March 14th ###
+### March 12th ###
 - **Stand ups** - take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
 <!-- - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array) -->
 
-### March 16th ###
+### March 14th ###
 - **Stand ups**
 
-### Saturday - December 19th ###
+### Saturday - March 16th ###
 - **Stand ups**
 - **Coding Kata**
 - **7 PM** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
+
+### March 19th ###
+- **Stand ups**
 
 ### March 21th ###
 - **Stand ups** 
