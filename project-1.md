@@ -24,44 +24,31 @@ For more information about making your game _juicy_,
 You and the Ironhack staff will also vote for your favorites
 and award three medals: Bronze 🥉, Silver 🥈, and Gold 🥇.
 
-Here are some examples of past projects:
-- [Kitty Clicker](https://ryanjso.github.io/PhKitty/index.html)
-- [Paper Droid](https://alexvirdee.github.io/paper-droid/)
-- [Manny-Ski](https://anaraballo.github.io/MannySki-game/)
-- [Oprah Game](https://jonathanlsanch.github.io/Oprah-Run/)
-- [Changing Keys](https://dougdejong.github.io/game-changing-keys/)
-- [Galactic Wars](https://bartosian.github.io/)
-- [The Interview](https://rachel-hofer.github.io/Ironhack-Project1-TheInterview/)
-
-
 Schedule
 --------
-### Monday - December 3rd ###
+### March 9th ###
+Show project to students.
+
+### March 14th ###
 - **Stand ups** - take a minute to update your colleagues with your progress: what did you do so far, do you feel on the track, behind or ahead, what's your plan for today and do you think you'll have any blockers.
 <!-- - **Coding Kata** - [Sort a 2D array](https://www.codewars.com/kata/sort-a-2d-array) -->
 
-### Wednesday - December 5th ###
+### March 16th ###
 - **Stand ups**
 
-### Saturday - December 8th ###
+### March 19th ###
 - **Stand ups**
 - **Coding Kata**
-
-### Monday - December 10th ###
-- **Stand ups** 
-
-### Wednesday - December 12th ###
-- **Stand ups**
 
 ### Saturday - December 15th ###
 - **Stand ups**
 - **Coding Kata**
-- **4 PM** - _Presentation Practice #1_: About You & Your Project <br>
+- **7 PM** - _Presentation Practice #1_: About You & Your Project <br>
   For your first presentation practice
   you should create your initial presentation structure. <br>
   [See Presentation Section](#presentations)
 
-### Monday - December 17th ###
+### March 21th ###
 - **Stand ups** 
 - **7 PM** - _Presentation Practice #2_: Demo <br>
   For the second presentation practice
@@ -71,8 +58,8 @@ Schedule
   [See Demo Tips](#demo-tips)
 
 
-### Wednesday - December 19th ###
-- **7 PM** - **Project #1 Presentations** <br>
+### Saturday - March 23th ###
+- ** 9 AM ** - **Project #1 Presentations** <br>
   Finally, it's time for your real presentation.
   You will present your projects to the staff and other students.
   Remember to dress at least one degree nicer than normal.
